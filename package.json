@@ -1,0 +1,21 @@
+{
+  "name": "mean",
+  "version": "0.0.0",
+  "description": "mean",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "angelo rubin",
+  "license": "MIT"
+}
